@@ -10,6 +10,9 @@
 
 #To add any new changes in local code, use the below command.
 **git add -A** 
+or 
+**git add .**
+
 
 #After above comand, use the below one to commit the local code changes.
 **git commit -m "message to speak about what is changed"**
