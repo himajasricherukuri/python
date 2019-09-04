@@ -19,4 +19,5 @@
 
 #other useful commands
 #to ignore all local changes and revert back to server copy.
-git stash
+**git stash**
+
