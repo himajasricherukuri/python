@@ -38,3 +38,4 @@ print(isfinite(3))
 
 #isinf(x)	Returns True if x is a positive or negative infinity
 print(isinf(3))
+
