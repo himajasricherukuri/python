@@ -5,3 +5,5 @@
 
 coordinates = (4,5)
 print(coordinates[0])
+
+# it is easy to access a element inside of a tuple

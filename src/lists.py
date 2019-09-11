@@ -20,3 +20,4 @@ print(friends[-1])
 #how to aceess multiple elements ? = use ":" after the element number
 
 print(friends[1:])
+
